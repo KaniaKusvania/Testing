@@ -35,6 +35,7 @@ public class BilanganPrima {
                 bilanganPrima.add(angka);
             }
         }
+        System.out.println("Misalnya");
         return bilanganPrima;
     }
 }
